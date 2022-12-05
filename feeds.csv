@@ -1,0 +1,391 @@
+ChamberID,Genotype,Temperature,Volume_nl,CombinedGroupBy,EverFeed
+2019-04-09_17-14-25_Chamber11,w1118;uas-cschrimson,Red Light Off,0,Red Light Off; Ctrl,0
+2019-04-09_17-14-25_Chamber12,w1118; r50h05-gal4,Red Light Off,0,Red Light Off; Ctrl,0
+2019-04-09_17-14-25_Chamber14,w1118;uas-cschrimson,Red Light Off,26.612,Red Light Off; Ctrl,1
+2019-04-09_17-14-25_Chamber15,w1118; r50h05-gal4,Red Light Off,0,Red Light Off; Ctrl,0
+2019-04-09_17-14-25_Chamber16,w1118;uas-cschrimson,Red Light Off,73.1,Red Light Off; Ctrl,1
+2019-04-09_17-14-25_Chamber17,w1118; r50h05-gal4,Red Light Off,112.658,Red Light Off; Ctrl,1
+2019-04-09_17-14-25_Chamber19,w1118;uas-cschrimson,Red Light Off,0,Red Light Off; Ctrl,0
+2019-04-09_17-14-25_Chamber2,w1118;uas-cschrimson,Red Light Off,27.479,Red Light Off; Ctrl,1
+2019-04-09_17-14-25_Chamber20,w1118; r50h05-gal4,Red Light Off,0,Red Light Off; Ctrl,0
+2019-04-09_17-14-25_Chamber22,w1118;uas-cschrimson,Red Light Off,0,Red Light Off; Ctrl,0
+2019-04-09_17-14-25_Chamber23,w1118; r50h05-gal4,Red Light Off,147.641,Red Light Off; Ctrl,1
+2019-04-09_17-14-25_Chamber25,w1118;uas-cschrimson,Red Light Off,19.664,Red Light Off; Ctrl,1
+2019-04-09_17-14-25_Chamber26,w1118; r50h05-gal4,Red Light Off,185.49,Red Light Off; Ctrl,1
+2019-04-09_17-14-25_Chamber28,w1118;uas-cschrimson,Red Light Off,0,Red Light Off; Ctrl,0
+2019-04-09_17-14-25_Chamber29,w1118; r50h05-gal4,Red Light Off,0,Red Light Off; Ctrl,0
+2019-04-09_17-14-25_Chamber3,w1118; r50h05-gal4,Red Light Off,0,Red Light Off; Ctrl,0
+2019-04-09_17-14-25_Chamber5,w1118;uas-cschrimson,Red Light Off,0,Red Light Off; Ctrl,0
+2019-04-09_17-14-25_Chamber6,w1118; r50h05-gal4,Red Light Off,0,Red Light Off; Ctrl,0
+2019-04-09_17-14-25_Chamber8,w1118;uas-cschrimson,Red Light Off,70.028,Red Light Off; Ctrl,1
+2019-04-09_17-14-25_Chamber9,w1118; r50h05-gal4,Red Light Off,57.557,Red Light Off; Ctrl,1
+2019-04-28_14-25-07_Chamber1,w1118;uas-cschrimson,Red Light Off,54.71,Red Light Off; Ctrl,1
+2019-04-28_14-25-07_Chamber10,w1118;uas-cschrimson,Red Light Off,79.3,Red Light Off; Ctrl,1
+2019-04-28_14-25-07_Chamber11,w1118; r50h05-gal4,Red Light Off,102.891,Red Light Off; Ctrl,1
+2019-04-28_14-25-07_Chamber13,w1118;uas-cschrimson,Red Light Off,7.289,Red Light Off; Ctrl,1
+2019-04-28_14-25-07_Chamber14,w1118; r50h05-gal4,Red Light Off,0,Red Light Off; Ctrl,0
+2019-04-28_14-25-07_Chamber16,w1118; r50h05-gal4,Red Light Off,41.189,Red Light Off; Ctrl,1
+2019-04-28_14-25-07_Chamber18,w1118;uas-cschrimson,Red Light Off,0,Red Light Off; Ctrl,0
+2019-04-28_14-25-07_Chamber19,w1118; r50h05-gal4,Red Light Off,0,Red Light Off; Ctrl,0
+2019-04-28_14-25-07_Chamber2,w1118; r50h05-gal4,Red Light Off,67.607,Red Light Off; Ctrl,1
+2019-04-28_14-25-07_Chamber21,w1118;uas-cschrimson,Red Light Off,0,Red Light Off; Ctrl,0
+2019-04-28_14-25-07_Chamber22,w1118; r50h05-gal4,Red Light Off,12.022,Red Light Off; Ctrl,1
+2019-04-28_14-25-07_Chamber24,w1118;uas-cschrimson,Red Light Off,59.849,Red Light Off; Ctrl,1
+2019-04-28_14-25-07_Chamber25,w1118; r50h05-gal4,Red Light Off,0,Red Light Off; Ctrl,0
+2019-04-28_14-25-07_Chamber27,w1118;uas-cschrimson,Red Light Off,0,Red Light Off; Ctrl,0
+2019-04-28_14-25-07_Chamber28,w1118; r50h05-gal4,Red Light Off,78.495,Red Light Off; Ctrl,1
+2019-04-28_14-25-07_Chamber30,w1118;uas-cschrimson,Red Light Off,0,Red Light Off; Ctrl,0
+2019-04-28_14-25-07_Chamber4,w1118;uas-cschrimson,Red Light Off,0,Red Light Off; Ctrl,0
+2019-04-28_14-25-07_Chamber5,w1118; r50h05-gal4,Red Light Off,64.622,Red Light Off; Ctrl,1
+2019-04-28_14-25-07_Chamber7,w1118;uas-cschrimson,Red Light Off,0,Red Light Off; Ctrl,0
+2019-04-28_14-25-07_Chamber8,w1118; r50h05-gal4,Red Light Off,147.275,Red Light Off; Ctrl,1
+2019-05-06_14-49-10_Chamber1,w1118;uas-cschrimson,Red Light Off,0,Red Light Off; Ctrl,0
+2019-05-06_14-49-10_Chamber10,w1118;uas-cschrimson,Red Light Off,2.686,Red Light Off; Ctrl,1
+2019-05-06_14-49-10_Chamber11,w1118; r50h05-gal4,Red Light Off,82.51,Red Light Off; Ctrl,1
+2019-05-06_14-49-10_Chamber13,w1118;uas-cschrimson,Red Light Off,67.994,Red Light Off; Ctrl,1
+2019-05-06_14-49-10_Chamber14,w1118; r50h05-gal4,Red Light Off,0,Red Light Off; Ctrl,0
+2019-05-06_14-49-10_Chamber16,w1118; r50h05-gal4,Red Light Off,93.87,Red Light Off; Ctrl,1
+2019-05-06_14-49-10_Chamber18,w1118;uas-cschrimson,Red Light Off,0,Red Light Off; Ctrl,0
+2019-05-06_14-49-10_Chamber19,w1118; r50h05-gal4,Red Light Off,0,Red Light Off; Ctrl,0
+2019-05-06_14-49-10_Chamber2,w1118; r50h05-gal4,Red Light Off,80.645,Red Light Off; Ctrl,1
+2019-05-06_14-49-10_Chamber21,w1118;uas-cschrimson,Red Light Off,0,Red Light Off; Ctrl,0
+2019-05-06_14-49-10_Chamber22,w1118; r50h05-gal4,Red Light Off,62.551,Red Light Off; Ctrl,1
+2019-05-06_14-49-10_Chamber24,w1118;uas-cschrimson,Red Light Off,81.673,Red Light Off; Ctrl,1
+2019-05-06_14-49-10_Chamber25,w1118; r50h05-gal4,Red Light Off,52.802,Red Light Off; Ctrl,1
+2019-05-06_14-49-10_Chamber27,w1118;uas-cschrimson,Red Light Off,38.066,Red Light Off; Ctrl,1
+2019-05-06_14-49-10_Chamber28,w1118; r50h05-gal4,Red Light Off,20.806,Red Light Off; Ctrl,1
+2019-05-06_14-49-10_Chamber30,w1118;uas-cschrimson,Red Light Off,0,Red Light Off; Ctrl,0
+2019-05-06_14-49-10_Chamber4,w1118;uas-cschrimson,Red Light Off,20.553,Red Light Off; Ctrl,1
+2019-05-06_14-49-10_Chamber5,w1118; r50h05-gal4,Red Light Off,170.971,Red Light Off; Ctrl,1
+2019-05-06_14-49-10_Chamber7,w1118;uas-cschrimson,Red Light Off,0,Red Light Off; Ctrl,0
+2019-05-06_14-49-10_Chamber8,w1118; r50h05-gal4,Red Light Off,76.854,Red Light Off; Ctrl,1
+2019-05-06_17-32-12_Chamber1,w1118; r50h05-gal4,Red Light Off,70.78,Red Light Off; Ctrl,1
+2019-05-06_17-32-12_Chamber10,w1118; r50h05-gal4,Red Light Off,109.31,Red Light Off; Ctrl,1
+2019-05-06_17-32-12_Chamber12,w1118;uas-cschrimson,Red Light Off,0,Red Light Off; Ctrl,0
+2019-05-06_17-32-12_Chamber13,w1118; r50h05-gal4,Red Light Off,111.978,Red Light Off; Ctrl,1
+2019-05-06_17-32-12_Chamber15,w1118;uas-cschrimson,Red Light Off,77.185,Red Light Off; Ctrl,1
+2019-05-06_17-32-12_Chamber17,w1118;uas-cschrimson,Red Light Off,14.023,Red Light Off; Ctrl,1
+2019-05-06_17-32-12_Chamber18,w1118; r50h05-gal4,Red Light Off,84.975,Red Light Off; Ctrl,1
+2019-05-06_17-32-12_Chamber20,w1118;uas-cschrimson,Red Light Off,133.767,Red Light Off; Ctrl,1
+2019-05-06_17-32-12_Chamber21,w1118; r50h05-gal4,Red Light Off,16.316,Red Light Off; Ctrl,1
+2019-05-06_17-32-12_Chamber23,w1118;uas-cschrimson,Red Light Off,72.04,Red Light Off; Ctrl,1
+2019-05-06_17-32-12_Chamber24,w1118; r50h05-gal4,Red Light Off,101.107,Red Light Off; Ctrl,1
+2019-05-06_17-32-12_Chamber26,w1118;uas-cschrimson,Red Light Off,140.471,Red Light Off; Ctrl,1
+2019-05-06_17-32-12_Chamber27,w1118; r50h05-gal4,Red Light Off,0,Red Light Off; Ctrl,0
+2019-05-06_17-32-12_Chamber29,w1118;uas-cschrimson,Red Light Off,0,Red Light Off; Ctrl,0
+2019-05-06_17-32-12_Chamber3,w1118;uas-cschrimson,Red Light Off,18.168,Red Light Off; Ctrl,1
+2019-05-06_17-32-12_Chamber30,w1118; r50h05-gal4,Red Light Off,85.736,Red Light Off; Ctrl,1
+2019-05-06_17-32-12_Chamber4,w1118; r50h05-gal4,Red Light Off,0,Red Light Off; Ctrl,0
+2019-05-06_17-32-12_Chamber6,w1118;uas-cschrimson,Red Light Off,0,Red Light Off; Ctrl,0
+2019-05-06_17-32-12_Chamber7,w1118; r50h05-gal4,Red Light Off,105.226,Red Light Off; Ctrl,1
+2019-05-06_17-32-12_Chamber9,w1118;uas-cschrimson,Red Light Off,12.306,Red Light Off; Ctrl,1
+2020-11-11_14-59-07_Chamber1,w1118; r50h05-gal4,Red Light Off,75.63,Red Light Off; Ctrl,1
+2020-11-11_14-59-07_Chamber10,w1118; r50h05-gal4,Red Light Off,52.787,Red Light Off; Ctrl,1
+2020-11-11_14-59-07_Chamber12,w1118;uas-cschrimson,Red Light Off,57.737,Red Light Off; Ctrl,1
+2020-11-11_14-59-07_Chamber13,w1118; r50h05-gal4,Red Light Off,0,Red Light Off; Ctrl,0
+2020-11-11_14-59-07_Chamber15,w1118;uas-cschrimson,Red Light Off,730.221,Red Light Off; Ctrl,1
+2020-11-11_14-59-07_Chamber17,w1118;uas-cschrimson,Red Light Off,0,Red Light Off; Ctrl,0
+2020-11-11_14-59-07_Chamber18,w1118; r50h05-gal4,Red Light Off,0,Red Light Off; Ctrl,0
+2020-11-11_14-59-07_Chamber20,w1118;uas-cschrimson,Red Light Off,8.115,Red Light Off; Ctrl,1
+2020-11-11_14-59-07_Chamber21,w1118; r50h05-gal4,Red Light Off,0,Red Light Off; Ctrl,0
+2020-11-11_14-59-07_Chamber23,w1118;uas-cschrimson,Red Light Off,0,Red Light Off; Ctrl,0
+2020-11-11_14-59-07_Chamber24,w1118; r50h05-gal4,Red Light Off,0,Red Light Off; Ctrl,0
+2020-11-11_14-59-07_Chamber26,w1118;uas-cschrimson,Red Light Off,0,Red Light Off; Ctrl,0
+2020-11-11_14-59-07_Chamber27,w1118; r50h05-gal4,Red Light Off,0,Red Light Off; Ctrl,0
+2020-11-11_14-59-07_Chamber29,w1118;uas-cschrimson,Red Light Off,0,Red Light Off; Ctrl,0
+2020-11-11_14-59-07_Chamber3,w1118;uas-cschrimson,Red Light Off,101.213,Red Light Off; Ctrl,1
+2020-11-11_14-59-07_Chamber30,w1118; r50h05-gal4,Red Light Off,0,Red Light Off; Ctrl,0
+2020-11-11_14-59-07_Chamber4,w1118; r50h05-gal4,Red Light Off,51.699,Red Light Off; Ctrl,1
+2020-11-11_14-59-07_Chamber6,w1118;uas-cschrimson,Red Light Off,206.218,Red Light Off; Ctrl,1
+2020-11-11_14-59-07_Chamber7,w1118; r50h05-gal4,Red Light Off,89.882,Red Light Off; Ctrl,1
+2020-11-11_14-59-07_Chamber9,w1118;uas-cschrimson,Red Light Off,0,Red Light Off; Ctrl,0
+2021-09-16_10-55-52_Chamber1,w1118; r50h05-gal4,Red Light Off,0,Red Light Off; Ctrl,0
+2021-09-16_10-55-52_Chamber10,w1118; r50h05-gal4,Red Light Off,152.426,Red Light Off; Ctrl,1
+2021-09-16_10-55-52_Chamber12,w1118;uas-cschrimson,Red Light Off,89.126,Red Light Off; Ctrl,1
+2021-09-16_10-55-52_Chamber13,w1118; r50h05-gal4,Red Light Off,131.865,Red Light Off; Ctrl,1
+2021-09-16_10-55-52_Chamber15,w1118;uas-cschrimson,Red Light Off,141.577,Red Light Off; Ctrl,1
+2021-09-16_10-55-52_Chamber17,w1118;uas-cschrimson,Red Light Off,79.283,Red Light Off; Ctrl,1
+2021-09-16_10-55-52_Chamber18,w1118; r50h05-gal4,Red Light Off,51.188,Red Light Off; Ctrl,1
+2021-09-16_10-55-52_Chamber20,w1118;uas-cschrimson,Red Light Off,39.21,Red Light Off; Ctrl,1
+2021-09-16_10-55-52_Chamber21,w1118; r50h05-gal4,Red Light Off,152.436,Red Light Off; Ctrl,1
+2021-09-16_10-55-52_Chamber23,w1118;uas-cschrimson,Red Light Off,35.138,Red Light Off; Ctrl,1
+2021-09-16_10-55-52_Chamber24,w1118; r50h05-gal4,Red Light Off,108.489,Red Light Off; Ctrl,1
+2021-09-16_10-55-52_Chamber26,w1118;uas-cschrimson,Red Light Off,152.937,Red Light Off; Ctrl,1
+2021-09-16_10-55-52_Chamber27,w1118; r50h05-gal4,Red Light Off,32.091,Red Light Off; Ctrl,1
+2021-09-16_10-55-52_Chamber29,w1118;uas-cschrimson,Red Light Off,75.025,Red Light Off; Ctrl,1
+2021-09-16_10-55-52_Chamber3,w1118;uas-cschrimson,Red Light Off,154.767,Red Light Off; Ctrl,1
+2021-09-16_10-55-52_Chamber30,w1118; r50h05-gal4,Red Light Off,32.626,Red Light Off; Ctrl,1
+2021-09-16_10-55-52_Chamber4,w1118; r50h05-gal4,Red Light Off,0,Red Light Off; Ctrl,0
+2021-09-16_10-55-52_Chamber6,w1118;uas-cschrimson,Red Light Off,46.456,Red Light Off; Ctrl,1
+2021-09-16_10-55-52_Chamber7,w1118; r50h05-gal4,Red Light Off,15.867,Red Light Off; Ctrl,1
+2021-09-16_10-55-52_Chamber9,w1118;uas-cschrimson,Red Light Off,2.416,Red Light Off; Ctrl,1
+2019-04-09_17-14-25_Chamber1,r50h05-gal4>uas-cschrimson,Red Light Off,126.93,Red Light Off; Test,1
+2019-04-09_17-14-25_Chamber10,r50h05-gal4>uas-cschrimson,Red Light Off,0,Red Light Off; Test,0
+2019-04-09_17-14-25_Chamber13,r50h05-gal4>uas-cschrimson,Red Light Off,0,Red Light Off; Test,0
+2019-04-09_17-14-25_Chamber18,r50h05-gal4>uas-cschrimson,Red Light Off,175.311,Red Light Off; Test,1
+2019-04-09_17-14-25_Chamber21,r50h05-gal4>uas-cschrimson,Red Light Off,0,Red Light Off; Test,0
+2019-04-09_17-14-25_Chamber24,r50h05-gal4>uas-cschrimson,Red Light Off,0,Red Light Off; Test,0
+2019-04-09_17-14-25_Chamber27,r50h05-gal4>uas-cschrimson,Red Light Off,0,Red Light Off; Test,0
+2019-04-09_17-14-25_Chamber30,r50h05-gal4>uas-cschrimson,Red Light Off,0,Red Light Off; Test,0
+2019-04-09_17-14-25_Chamber4,r50h05-gal4>uas-cschrimson,Red Light Off,0,Red Light Off; Test,0
+2019-04-09_17-14-25_Chamber7,r50h05-gal4>uas-cschrimson,Red Light Off,0,Red Light Off; Test,0
+2019-04-28_14-25-07_Chamber12,r50h05-gal4>uas-cschrimson,Red Light Off,0,Red Light Off; Test,0
+2019-04-28_14-25-07_Chamber15,r50h05-gal4>uas-cschrimson,Red Light Off,0,Red Light Off; Test,0
+2019-04-28_14-25-07_Chamber17,r50h05-gal4>uas-cschrimson,Red Light Off,110.451,Red Light Off; Test,1
+2019-04-28_14-25-07_Chamber20,r50h05-gal4>uas-cschrimson,Red Light Off,0,Red Light Off; Test,0
+2019-04-28_14-25-07_Chamber23,r50h05-gal4>uas-cschrimson,Red Light Off,0,Red Light Off; Test,0
+2019-04-28_14-25-07_Chamber26,r50h05-gal4>uas-cschrimson,Red Light Off,141.72,Red Light Off; Test,1
+2019-04-28_14-25-07_Chamber29,r50h05-gal4>uas-cschrimson,Red Light Off,0,Red Light Off; Test,0
+2019-04-28_14-25-07_Chamber3,r50h05-gal4>uas-cschrimson,Red Light Off,0,Red Light Off; Test,0
+2019-04-28_14-25-07_Chamber6,r50h05-gal4>uas-cschrimson,Red Light Off,79.51,Red Light Off; Test,1
+2019-04-28_14-25-07_Chamber9,r50h05-gal4>uas-cschrimson,Red Light Off,0,Red Light Off; Test,0
+2019-05-06_14-49-10_Chamber12,r50h05-gal4>uas-cschrimson,Red Light Off,16.632,Red Light Off; Test,1
+2019-05-06_14-49-10_Chamber15,r50h05-gal4>uas-cschrimson,Red Light Off,126.874,Red Light Off; Test,1
+2019-05-06_14-49-10_Chamber17,r50h05-gal4>uas-cschrimson,Red Light Off,180.383,Red Light Off; Test,1
+2019-05-06_14-49-10_Chamber20,r50h05-gal4>uas-cschrimson,Red Light Off,83.164,Red Light Off; Test,1
+2019-05-06_14-49-10_Chamber23,r50h05-gal4>uas-cschrimson,Red Light Off,76.689,Red Light Off; Test,1
+2019-05-06_14-49-10_Chamber26,r50h05-gal4>uas-cschrimson,Red Light Off,0,Red Light Off; Test,0
+2019-05-06_14-49-10_Chamber29,r50h05-gal4>uas-cschrimson,Red Light Off,184.07,Red Light Off; Test,1
+2019-05-06_14-49-10_Chamber3,r50h05-gal4>uas-cschrimson,Red Light Off,101.713,Red Light Off; Test,1
+2019-05-06_14-49-10_Chamber6,r50h05-gal4>uas-cschrimson,Red Light Off,105.503,Red Light Off; Test,1
+2019-05-06_14-49-10_Chamber9,r50h05-gal4>uas-cschrimson,Red Light Off,0,Red Light Off; Test,0
+2019-05-06_17-32-12_Chamber11,r50h05-gal4>uas-cschrimson,Red Light Off,103.374,Red Light Off; Test,1
+2019-05-06_17-32-12_Chamber14,r50h05-gal4>uas-cschrimson,Red Light Off,0,Red Light Off; Test,0
+2019-05-06_17-32-12_Chamber16,r50h05-gal4>uas-cschrimson,Red Light Off,108.769,Red Light Off; Test,1
+2019-05-06_17-32-12_Chamber19,r50h05-gal4>uas-cschrimson,Red Light Off,0,Red Light Off; Test,0
+2019-05-06_17-32-12_Chamber2,r50h05-gal4>uas-cschrimson,Red Light Off,158.231,Red Light Off; Test,1
+2019-05-06_17-32-12_Chamber22,r50h05-gal4>uas-cschrimson,Red Light Off,178.109,Red Light Off; Test,1
+2019-05-06_17-32-12_Chamber25,r50h05-gal4>uas-cschrimson,Red Light Off,70.922,Red Light Off; Test,1
+2019-05-06_17-32-12_Chamber28,r50h05-gal4>uas-cschrimson,Red Light Off,0,Red Light Off; Test,0
+2019-05-06_17-32-12_Chamber5,r50h05-gal4>uas-cschrimson,Red Light Off,63.956,Red Light Off; Test,1
+2019-05-06_17-32-12_Chamber8,r50h05-gal4>uas-cschrimson,Red Light Off,0,Red Light Off; Test,0
+2020-11-11_14-59-07_Chamber11,r50h05-gal4>uas-cschrimson,Red Light Off,40.161,Red Light Off; Test,1
+2020-11-11_14-59-07_Chamber14,r50h05-gal4>uas-cschrimson,Red Light Off,0,Red Light Off; Test,0
+2020-11-11_14-59-07_Chamber16,r50h05-gal4>uas-cschrimson,Red Light Off,0,Red Light Off; Test,0
+2020-11-11_14-59-07_Chamber19,r50h05-gal4>uas-cschrimson,Red Light Off,0,Red Light Off; Test,0
+2020-11-11_14-59-07_Chamber2,r50h05-gal4>uas-cschrimson,Red Light Off,149.14,Red Light Off; Test,1
+2020-11-11_14-59-07_Chamber22,r50h05-gal4>uas-cschrimson,Red Light Off,106.601,Red Light Off; Test,1
+2020-11-11_14-59-07_Chamber25,r50h05-gal4>uas-cschrimson,Red Light Off,16.168,Red Light Off; Test,1
+2020-11-11_14-59-07_Chamber28,r50h05-gal4>uas-cschrimson,Red Light Off,11.886,Red Light Off; Test,1
+2020-11-11_14-59-07_Chamber5,r50h05-gal4>uas-cschrimson,Red Light Off,0,Red Light Off; Test,0
+2020-11-11_14-59-07_Chamber8,r50h05-gal4>uas-cschrimson,Red Light Off,26.289,Red Light Off; Test,1
+2021-09-16_10-55-52_Chamber11,r50h05-gal4>uas-cschrimson,Red Light Off,32.945,Red Light Off; Test,1
+2021-09-16_10-55-52_Chamber14,r50h05-gal4>uas-cschrimson,Red Light Off,119.702,Red Light Off; Test,1
+2021-09-16_10-55-52_Chamber16,r50h05-gal4>uas-cschrimson,Red Light Off,47.577,Red Light Off; Test,1
+2021-09-16_10-55-52_Chamber19,r50h05-gal4>uas-cschrimson,Red Light Off,134.705,Red Light Off; Test,1
+2021-09-16_10-55-52_Chamber2,r50h05-gal4>uas-cschrimson,Red Light Off,65.108,Red Light Off; Test,1
+2021-09-16_10-55-52_Chamber22,r50h05-gal4>uas-cschrimson,Red Light Off,146.292,Red Light Off; Test,1
+2021-09-16_10-55-52_Chamber25,r50h05-gal4>uas-cschrimson,Red Light Off,0,Red Light Off; Test,0
+2021-09-16_10-55-52_Chamber28,r50h05-gal4>uas-cschrimson,Red Light Off,30.71,Red Light Off; Test,1
+2021-09-16_10-55-52_Chamber5,r50h05-gal4>uas-cschrimson,Red Light Off,15.399,Red Light Off; Test,1
+2021-09-16_10-55-52_Chamber8,r50h05-gal4>uas-cschrimson,Red Light Off,104.362,Red Light Off; Test,1
+2019-04-03_17-30-25_Chamber11,w1118;uas-cschrimson,Red Light On,58.082,Red Light On; Ctrl,1
+2019-04-03_17-30-25_Chamber12,w1118; r50h05-gal4,Red Light On,80.566,Red Light On; Ctrl,1
+2019-04-03_17-30-25_Chamber14,w1118;uas-cschrimson,Red Light On,0,Red Light On; Ctrl,0
+2019-04-03_17-30-25_Chamber15,w1118; r50h05-gal4,Red Light On,18.999,Red Light On; Ctrl,1
+2019-04-03_17-30-25_Chamber16,w1118;uas-cschrimson,Red Light On,120.832,Red Light On; Ctrl,1
+2019-04-03_17-30-25_Chamber17,w1118; r50h05-gal4,Red Light On,70.116,Red Light On; Ctrl,1
+2019-04-03_17-30-25_Chamber19,w1118;uas-cschrimson,Red Light On,0,Red Light On; Ctrl,0
+2019-04-03_17-30-25_Chamber2,w1118;uas-cschrimson,Red Light On,153.859,Red Light On; Ctrl,1
+2019-04-03_17-30-25_Chamber20,w1118; r50h05-gal4,Red Light On,47.78,Red Light On; Ctrl,1
+2019-04-03_17-30-25_Chamber22,w1118;uas-cschrimson,Red Light On,125.145,Red Light On; Ctrl,1
+2019-04-03_17-30-25_Chamber23,w1118; r50h05-gal4,Red Light On,60.055,Red Light On; Ctrl,1
+2019-04-03_17-30-25_Chamber25,w1118;uas-cschrimson,Red Light On,75.801,Red Light On; Ctrl,1
+2019-04-03_17-30-25_Chamber26,w1118; r50h05-gal4,Red Light On,38.415,Red Light On; Ctrl,1
+2019-04-03_17-30-25_Chamber28,w1118;uas-cschrimson,Red Light On,145.882,Red Light On; Ctrl,1
+2019-04-03_17-30-25_Chamber29,w1118; r50h05-gal4,Red Light On,56.193,Red Light On; Ctrl,1
+2019-04-03_17-30-25_Chamber3,w1118; r50h05-gal4,Red Light On,78.715,Red Light On; Ctrl,1
+2019-04-03_17-30-25_Chamber5,w1118;uas-cschrimson,Red Light On,173.803,Red Light On; Ctrl,1
+2019-04-03_17-30-25_Chamber6,w1118; r50h05-gal4,Red Light On,106.553,Red Light On; Ctrl,1
+2019-04-03_17-30-25_Chamber8,w1118;uas-cschrimson,Red Light On,52.63,Red Light On; Ctrl,1
+2019-04-03_17-30-25_Chamber9,w1118; r50h05-gal4,Red Light On,140.346,Red Light On; Ctrl,1
+2019-04-04_13-47-36_Chamber1,w1118; r50h05-gal4,Red Light On,0,Red Light On; Ctrl,0
+2019-04-04_13-47-36_Chamber10,w1118; r50h05-gal4,Red Light On,35.876,Red Light On; Ctrl,1
+2019-04-04_13-47-36_Chamber12,w1118;uas-cschrimson,Red Light On,94.798,Red Light On; Ctrl,1
+2019-04-04_13-47-36_Chamber13,w1118; r50h05-gal4,Red Light On,0,Red Light On; Ctrl,0
+2019-04-04_13-47-36_Chamber15,w1118;uas-cschrimson,Red Light On,105.965,Red Light On; Ctrl,1
+2019-04-04_13-47-36_Chamber17,w1118;uas-cschrimson,Red Light On,33.073,Red Light On; Ctrl,1
+2019-04-04_13-47-36_Chamber18,w1118; r50h05-gal4,Red Light On,0,Red Light On; Ctrl,0
+2019-04-04_13-47-36_Chamber20,w1118;uas-cschrimson,Red Light On,165.312,Red Light On; Ctrl,1
+2019-04-04_13-47-36_Chamber21,w1118; r50h05-gal4,Red Light On,31.717,Red Light On; Ctrl,1
+2019-04-04_13-47-36_Chamber23,w1118;uas-cschrimson,Red Light On,163.95,Red Light On; Ctrl,1
+2019-04-04_13-47-36_Chamber24,w1118; r50h05-gal4,Red Light On,49.313,Red Light On; Ctrl,1
+2019-04-04_13-47-36_Chamber26,w1118;uas-cschrimson,Red Light On,4.709,Red Light On; Ctrl,1
+2019-04-04_13-47-36_Chamber27,w1118; r50h05-gal4,Red Light On,0,Red Light On; Ctrl,0
+2019-04-04_13-47-36_Chamber29,w1118;uas-cschrimson,Red Light On,109.411,Red Light On; Ctrl,1
+2019-04-04_13-47-36_Chamber3,w1118;uas-cschrimson,Red Light On,138.763,Red Light On; Ctrl,1
+2019-04-04_13-47-36_Chamber30,w1118; r50h05-gal4,Red Light On,0,Red Light On; Ctrl,0
+2019-04-04_13-47-36_Chamber4,w1118; r50h05-gal4,Red Light On,70.348,Red Light On; Ctrl,1
+2019-04-04_13-47-36_Chamber6,w1118;uas-cschrimson,Red Light On,0,Red Light On; Ctrl,0
+2019-04-04_13-47-36_Chamber7,w1118; r50h05-gal4,Red Light On,0,Red Light On; Ctrl,0
+2019-04-04_13-47-36_Chamber9,w1118;uas-cschrimson,Red Light On,77.329,Red Light On; Ctrl,1
+2019-04-09_14-02-45_Chamber1,w1118;uas-cschrimson,Red Light On,0,Red Light On; Ctrl,0
+2019-04-09_14-02-45_Chamber10,w1118;uas-cschrimson,Red Light On,0,Red Light On; Ctrl,0
+2019-04-09_14-02-45_Chamber11,w1118; r50h05-gal4,Red Light On,24.601,Red Light On; Ctrl,1
+2019-04-09_14-02-45_Chamber13,w1118;uas-cschrimson,Red Light On,85.787,Red Light On; Ctrl,1
+2019-04-09_14-02-45_Chamber14,w1118; r50h05-gal4,Red Light On,103.884,Red Light On; Ctrl,1
+2019-04-09_14-02-45_Chamber16,w1118; r50h05-gal4,Red Light On,91.176,Red Light On; Ctrl,1
+2019-04-09_14-02-45_Chamber18,w1118;uas-cschrimson,Red Light On,60.586,Red Light On; Ctrl,1
+2019-04-09_14-02-45_Chamber19,w1118; r50h05-gal4,Red Light On,0,Red Light On; Ctrl,0
+2019-04-09_14-02-45_Chamber2,w1118; r50h05-gal4,Red Light On,150.431,Red Light On; Ctrl,1
+2019-04-09_14-02-45_Chamber21,w1118;uas-cschrimson,Red Light On,0,Red Light On; Ctrl,0
+2019-04-09_14-02-45_Chamber22,w1118; r50h05-gal4,Red Light On,57.055,Red Light On; Ctrl,1
+2019-04-09_14-02-45_Chamber24,w1118;uas-cschrimson,Red Light On,9.431,Red Light On; Ctrl,1
+2019-04-09_14-02-45_Chamber25,w1118; r50h05-gal4,Red Light On,102.325,Red Light On; Ctrl,1
+2019-04-09_14-02-45_Chamber27,w1118;uas-cschrimson,Red Light On,107.17,Red Light On; Ctrl,1
+2019-04-09_14-02-45_Chamber28,w1118; r50h05-gal4,Red Light On,164.305,Red Light On; Ctrl,1
+2019-04-09_14-02-45_Chamber30,w1118;uas-cschrimson,Red Light On,120.291,Red Light On; Ctrl,1
+2019-04-09_14-02-45_Chamber4,w1118;uas-cschrimson,Red Light On,28.698,Red Light On; Ctrl,1
+2019-04-09_14-02-45_Chamber5,w1118; r50h05-gal4,Red Light On,0,Red Light On; Ctrl,0
+2019-04-09_14-02-45_Chamber7,w1118;uas-cschrimson,Red Light On,61.832,Red Light On; Ctrl,1
+2019-04-09_14-02-45_Chamber8,w1118; r50h05-gal4,Red Light On,103.917,Red Light On; Ctrl,1
+2020-11-11_12-24-28_Chamber1,w1118; r50h05-gal4,Red Light On,0,Red Light On; Ctrl,0
+2020-11-11_12-24-28_Chamber10,w1118; r50h05-gal4,Red Light On,312.309,Red Light On; Ctrl,1
+2020-11-11_12-24-28_Chamber12,w1118;uas-cschrimson,Red Light On,0,Red Light On; Ctrl,0
+2020-11-11_12-24-28_Chamber13,w1118; r50h05-gal4,Red Light On,58.921,Red Light On; Ctrl,1
+2020-11-11_12-24-28_Chamber15,w1118;uas-cschrimson,Red Light On,0,Red Light On; Ctrl,0
+2020-11-11_12-24-28_Chamber17,w1118;uas-cschrimson,Red Light On,0,Red Light On; Ctrl,0
+2020-11-11_12-24-28_Chamber18,w1118; r50h05-gal4,Red Light On,0,Red Light On; Ctrl,0
+2020-11-11_12-24-28_Chamber20,w1118;uas-cschrimson,Red Light On,0,Red Light On; Ctrl,0
+2020-11-11_12-24-28_Chamber21,w1118; r50h05-gal4,Red Light On,197.696,Red Light On; Ctrl,1
+2020-11-11_12-24-28_Chamber23,w1118;uas-cschrimson,Red Light On,0,Red Light On; Ctrl,0
+2020-11-11_12-24-28_Chamber24,w1118; r50h05-gal4,Red Light On,0,Red Light On; Ctrl,0
+2020-11-11_12-24-28_Chamber26,w1118;uas-cschrimson,Red Light On,0,Red Light On; Ctrl,0
+2020-11-11_12-24-28_Chamber27,w1118; r50h05-gal4,Red Light On,0,Red Light On; Ctrl,0
+2020-11-11_12-24-28_Chamber29,w1118;uas-cschrimson,Red Light On,107.824,Red Light On; Ctrl,1
+2020-11-11_12-24-28_Chamber3,w1118;uas-cschrimson,Red Light On,0,Red Light On; Ctrl,0
+2020-11-11_12-24-28_Chamber30,w1118; r50h05-gal4,Red Light On,166.797,Red Light On; Ctrl,1
+2020-11-11_12-24-28_Chamber4,w1118; r50h05-gal4,Red Light On,140.147,Red Light On; Ctrl,1
+2020-11-11_12-24-28_Chamber6,w1118;uas-cschrimson,Red Light On,0,Red Light On; Ctrl,0
+2020-11-11_12-24-28_Chamber7,w1118; r50h05-gal4,Red Light On,181.198,Red Light On; Ctrl,1
+2020-11-11_12-24-28_Chamber9,w1118;uas-cschrimson,Red Light On,93.653,Red Light On; Ctrl,1
+2021-09-10_12-18-08_Chamber1,w1118;uas-cschrimson,Red Light On,4.881,Red Light On; Ctrl,1
+2021-09-10_12-18-08_Chamber10,w1118;uas-cschrimson,Red Light On,0,Red Light On; Ctrl,0
+2021-09-10_12-18-08_Chamber11,w1118; r50h05-gal4,Red Light On,126.332,Red Light On; Ctrl,1
+2021-09-10_12-18-08_Chamber13,w1118;uas-cschrimson,Red Light On,0,Red Light On; Ctrl,0
+2021-09-10_12-18-08_Chamber14,w1118; r50h05-gal4,Red Light On,0,Red Light On; Ctrl,0
+2021-09-10_12-18-08_Chamber16,w1118; r50h05-gal4,Red Light On,0,Red Light On; Ctrl,0
+2021-09-10_12-18-08_Chamber18,w1118;uas-cschrimson,Red Light On,128.913,Red Light On; Ctrl,1
+2021-09-10_12-18-08_Chamber19,w1118; r50h05-gal4,Red Light On,41.746,Red Light On; Ctrl,1
+2021-09-10_12-18-08_Chamber2,w1118; r50h05-gal4,Red Light On,59.536,Red Light On; Ctrl,1
+2021-09-10_12-18-08_Chamber21,w1118;uas-cschrimson,Red Light On,131.048,Red Light On; Ctrl,1
+2021-09-10_12-18-08_Chamber22,w1118; r50h05-gal4,Red Light On,41.603,Red Light On; Ctrl,1
+2021-09-10_12-18-08_Chamber24,w1118;uas-cschrimson,Red Light On,0,Red Light On; Ctrl,0
+2021-09-10_12-18-08_Chamber25,w1118; r50h05-gal4,Red Light On,2.244,Red Light On; Ctrl,1
+2021-09-10_12-18-08_Chamber27,w1118;uas-cschrimson,Red Light On,214.672,Red Light On; Ctrl,1
+2021-09-10_12-18-08_Chamber28,w1118; r50h05-gal4,Red Light On,68.515,Red Light On; Ctrl,1
+2021-09-10_12-18-08_Chamber30,w1118;uas-cschrimson,Red Light On,5.68,Red Light On; Ctrl,1
+2021-09-10_12-18-08_Chamber4,w1118;uas-cschrimson,Red Light On,71.702,Red Light On; Ctrl,1
+2021-09-10_12-18-08_Chamber5,w1118; r50h05-gal4,Red Light On,28.555,Red Light On; Ctrl,1
+2021-09-10_12-18-08_Chamber7,w1118;uas-cschrimson,Red Light On,98.981,Red Light On; Ctrl,1
+2021-09-10_12-18-08_Chamber8,w1118; r50h05-gal4,Red Light On,86.354,Red Light On; Ctrl,1
+2021-09-14_11-41-48_Chamber1,w1118; r50h05-gal4,Red Light On,0,Red Light On; Ctrl,0
+2021-09-14_11-41-48_Chamber10,w1118; r50h05-gal4,Red Light On,89.236,Red Light On; Ctrl,1
+2021-09-14_11-41-48_Chamber12,w1118;uas-cschrimson,Red Light On,0,Red Light On; Ctrl,0
+2021-09-14_11-41-48_Chamber13,w1118; r50h05-gal4,Red Light On,0,Red Light On; Ctrl,0
+2021-09-14_11-41-48_Chamber15,w1118;uas-cschrimson,Red Light On,40.922,Red Light On; Ctrl,1
+2021-09-14_11-41-48_Chamber17,w1118;uas-cschrimson,Red Light On,0,Red Light On; Ctrl,0
+2021-09-14_11-41-48_Chamber18,w1118; r50h05-gal4,Red Light On,0,Red Light On; Ctrl,0
+2021-09-14_11-41-48_Chamber20,w1118;uas-cschrimson,Red Light On,0,Red Light On; Ctrl,0
+2021-09-14_11-41-48_Chamber21,w1118; r50h05-gal4,Red Light On,33.03,Red Light On; Ctrl,1
+2021-09-14_11-41-48_Chamber23,w1118;uas-cschrimson,Red Light On,4.346,Red Light On; Ctrl,1
+2021-09-14_11-41-48_Chamber24,w1118; r50h05-gal4,Red Light On,11.233,Red Light On; Ctrl,1
+2021-09-14_11-41-48_Chamber26,w1118;uas-cschrimson,Red Light On,0,Red Light On; Ctrl,0
+2021-09-14_11-41-48_Chamber27,w1118; r50h05-gal4,Red Light On,0,Red Light On; Ctrl,0
+2021-09-14_11-41-48_Chamber29,w1118;uas-cschrimson,Red Light On,0,Red Light On; Ctrl,0
+2021-09-14_11-41-48_Chamber3,w1118;uas-cschrimson,Red Light On,0,Red Light On; Ctrl,0
+2021-09-14_11-41-48_Chamber30,w1118; r50h05-gal4,Red Light On,0,Red Light On; Ctrl,0
+2021-09-14_11-41-48_Chamber4,w1118; r50h05-gal4,Red Light On,0,Red Light On; Ctrl,0
+2021-09-14_11-41-48_Chamber6,w1118;uas-cschrimson,Red Light On,0,Red Light On; Ctrl,0
+2021-09-14_11-41-48_Chamber7,w1118; r50h05-gal4,Red Light On,0,Red Light On; Ctrl,0
+2021-09-14_11-41-48_Chamber9,w1118;uas-cschrimson,Red Light On,96.913,Red Light On; Ctrl,1
+2021-09-20_15-39-14_Chamber11,w1118;uas-cschrimson,Red Light On,0,Red Light On; Ctrl,0
+2021-09-20_15-39-14_Chamber12,w1118; r50h05-gal4,Red Light On,0,Red Light On; Ctrl,0
+2021-09-20_15-39-14_Chamber14,w1118;uas-cschrimson,Red Light On,237.388,Red Light On; Ctrl,1
+2021-09-20_15-39-14_Chamber15,w1118; r50h05-gal4,Red Light On,0,Red Light On; Ctrl,0
+2021-09-20_15-39-14_Chamber16,w1118;uas-cschrimson,Red Light On,0,Red Light On; Ctrl,0
+2021-09-20_15-39-14_Chamber17,w1118; r50h05-gal4,Red Light On,79.685,Red Light On; Ctrl,1
+2021-09-20_15-39-14_Chamber19,w1118;uas-cschrimson,Red Light On,34.049,Red Light On; Ctrl,1
+2021-09-20_15-39-14_Chamber2,w1118;uas-cschrimson,Red Light On,41.566,Red Light On; Ctrl,1
+2021-09-20_15-39-14_Chamber20,w1118; r50h05-gal4,Red Light On,0,Red Light On; Ctrl,0
+2021-09-20_15-39-14_Chamber22,w1118;uas-cschrimson,Red Light On,71.025,Red Light On; Ctrl,1
+2021-09-20_15-39-14_Chamber23,w1118; r50h05-gal4,Red Light On,0,Red Light On; Ctrl,0
+2021-09-20_15-39-14_Chamber25,w1118;uas-cschrimson,Red Light On,39.192,Red Light On; Ctrl,1
+2021-09-20_15-39-14_Chamber26,w1118; r50h05-gal4,Red Light On,38.782,Red Light On; Ctrl,1
+2021-09-20_15-39-14_Chamber28,w1118;uas-cschrimson,Red Light On,79.048,Red Light On; Ctrl,1
+2021-09-20_15-39-14_Chamber29,w1118; r50h05-gal4,Red Light On,0,Red Light On; Ctrl,0
+2021-09-20_15-39-14_Chamber3,w1118; r50h05-gal4,Red Light On,0,Red Light On; Ctrl,0
+2021-09-20_15-39-14_Chamber5,w1118;uas-cschrimson,Red Light On,90.262,Red Light On; Ctrl,1
+2021-09-20_15-39-14_Chamber6,w1118; r50h05-gal4,Red Light On,76.416,Red Light On; Ctrl,1
+2021-09-20_15-39-14_Chamber8,w1118;uas-cschrimson,Red Light On,177.638,Red Light On; Ctrl,1
+2021-09-20_15-39-14_Chamber9,w1118; r50h05-gal4,Red Light On,9.405,Red Light On; Ctrl,1
+2019-04-03_17-30-25_Chamber1,r50h05-gal4>uas-cschrimson,Red Light On,280.015,Red Light On; Test,1
+2019-04-03_17-30-25_Chamber10,r50h05-gal4>uas-cschrimson,Red Light On,85.674,Red Light On; Test,1
+2019-04-03_17-30-25_Chamber13,r50h05-gal4>uas-cschrimson,Red Light On,573.411,Red Light On; Test,1
+2019-04-03_17-30-25_Chamber18,r50h05-gal4>uas-cschrimson,Red Light On,273.917,Red Light On; Test,1
+2019-04-03_17-30-25_Chamber21,r50h05-gal4>uas-cschrimson,Red Light On,272.194,Red Light On; Test,1
+2019-04-03_17-30-25_Chamber24,r50h05-gal4>uas-cschrimson,Red Light On,403.763,Red Light On; Test,1
+2019-04-03_17-30-25_Chamber27,r50h05-gal4>uas-cschrimson,Red Light On,132.642,Red Light On; Test,1
+2019-04-03_17-30-25_Chamber30,r50h05-gal4>uas-cschrimson,Red Light On,238.153,Red Light On; Test,1
+2019-04-03_17-30-25_Chamber4,r50h05-gal4>uas-cschrimson,Red Light On,330.799,Red Light On; Test,1
+2019-04-03_17-30-25_Chamber7,r50h05-gal4>uas-cschrimson,Red Light On,138.256,Red Light On; Test,1
+2019-04-04_13-47-36_Chamber11,r50h05-gal4>uas-cschrimson,Red Light On,330.078,Red Light On; Test,1
+2019-04-04_13-47-36_Chamber14,r50h05-gal4>uas-cschrimson,Red Light On,396.972,Red Light On; Test,1
+2019-04-04_13-47-36_Chamber16,r50h05-gal4>uas-cschrimson,Red Light On,299.187,Red Light On; Test,1
+2019-04-04_13-47-36_Chamber19,r50h05-gal4>uas-cschrimson,Red Light On,189.107,Red Light On; Test,1
+2019-04-04_13-47-36_Chamber2,r50h05-gal4>uas-cschrimson,Red Light On,223.447,Red Light On; Test,1
+2019-04-04_13-47-36_Chamber22,r50h05-gal4>uas-cschrimson,Red Light On,215.562,Red Light On; Test,1
+2019-04-04_13-47-36_Chamber25,r50h05-gal4>uas-cschrimson,Red Light On,261.233,Red Light On; Test,1
+2019-04-04_13-47-36_Chamber28,r50h05-gal4>uas-cschrimson,Red Light On,284.505,Red Light On; Test,1
+2019-04-04_13-47-36_Chamber5,r50h05-gal4>uas-cschrimson,Red Light On,255.911,Red Light On; Test,1
+2019-04-04_13-47-36_Chamber8,r50h05-gal4>uas-cschrimson,Red Light On,166.657,Red Light On; Test,1
+2019-04-09_14-02-45_Chamber12,r50h05-gal4>uas-cschrimson,Red Light On,151.442,Red Light On; Test,1
+2019-04-09_14-02-45_Chamber15,r50h05-gal4>uas-cschrimson,Red Light On,277.303,Red Light On; Test,1
+2019-04-09_14-02-45_Chamber17,r50h05-gal4>uas-cschrimson,Red Light On,144.623,Red Light On; Test,1
+2019-04-09_14-02-45_Chamber20,r50h05-gal4>uas-cschrimson,Red Light On,151.561,Red Light On; Test,1
+2019-04-09_14-02-45_Chamber23,r50h05-gal4>uas-cschrimson,Red Light On,255.781,Red Light On; Test,1
+2019-04-09_14-02-45_Chamber26,r50h05-gal4>uas-cschrimson,Red Light On,153.393,Red Light On; Test,1
+2019-04-09_14-02-45_Chamber29,r50h05-gal4>uas-cschrimson,Red Light On,142.739,Red Light On; Test,1
+2019-04-09_14-02-45_Chamber3,r50h05-gal4>uas-cschrimson,Red Light On,69.899,Red Light On; Test,1
+2019-04-09_14-02-45_Chamber6,r50h05-gal4>uas-cschrimson,Red Light On,263.839,Red Light On; Test,1
+2019-04-09_14-02-45_Chamber9,r50h05-gal4>uas-cschrimson,Red Light On,101.712,Red Light On; Test,1
+2020-11-11_12-24-28_Chamber11,r50h05-gal4>uas-cschrimson,Red Light On,218.811,Red Light On; Test,1
+2020-11-11_12-24-28_Chamber14,r50h05-gal4>uas-cschrimson,Red Light On,275.247,Red Light On; Test,1
+2020-11-11_12-24-28_Chamber16,r50h05-gal4>uas-cschrimson,Red Light On,1046.342,Red Light On; Test,1
+2020-11-11_12-24-28_Chamber19,r50h05-gal4>uas-cschrimson,Red Light On,443.865,Red Light On; Test,1
+2020-11-11_12-24-28_Chamber2,r50h05-gal4>uas-cschrimson,Red Light On,208.072,Red Light On; Test,1
+2020-11-11_12-24-28_Chamber22,r50h05-gal4>uas-cschrimson,Red Light On,382.802,Red Light On; Test,1
+2020-11-11_12-24-28_Chamber25,r50h05-gal4>uas-cschrimson,Red Light On,0,Red Light On; Test,0
+2020-11-11_12-24-28_Chamber28,r50h05-gal4>uas-cschrimson,Red Light On,442.942,Red Light On; Test,1
+2020-11-11_12-24-28_Chamber5,r50h05-gal4>uas-cschrimson,Red Light On,353.201,Red Light On; Test,1
+2020-11-11_12-24-28_Chamber8,r50h05-gal4>uas-cschrimson,Red Light On,170.9,Red Light On; Test,1
+2021-09-10_12-18-08_Chamber12,r50h05-gal4>uas-cschrimson,Red Light On,177.62,Red Light On; Test,1
+2021-09-10_12-18-08_Chamber15,r50h05-gal4>uas-cschrimson,Red Light On,0,Red Light On; Test,0
+2021-09-10_12-18-08_Chamber17,r50h05-gal4>uas-cschrimson,Red Light On,589.996,Red Light On; Test,1
+2021-09-10_12-18-08_Chamber20,r50h05-gal4>uas-cschrimson,Red Light On,498.377,Red Light On; Test,1
+2021-09-10_12-18-08_Chamber23,r50h05-gal4>uas-cschrimson,Red Light On,566.232,Red Light On; Test,1
+2021-09-10_12-18-08_Chamber26,r50h05-gal4>uas-cschrimson,Red Light On,205.252,Red Light On; Test,1
+2021-09-10_12-18-08_Chamber29,r50h05-gal4>uas-cschrimson,Red Light On,362,Red Light On; Test,1
+2021-09-10_12-18-08_Chamber3,r50h05-gal4>uas-cschrimson,Red Light On,699.189,Red Light On; Test,1
+2021-09-10_12-18-08_Chamber6,r50h05-gal4>uas-cschrimson,Red Light On,565.786,Red Light On; Test,1
+2021-09-10_12-18-08_Chamber9,r50h05-gal4>uas-cschrimson,Red Light On,337.253,Red Light On; Test,1
+2021-09-14_11-41-48_Chamber11,r50h05-gal4>uas-cschrimson,Red Light On,398.577,Red Light On; Test,1
+2021-09-14_11-41-48_Chamber14,r50h05-gal4>uas-cschrimson,Red Light On,348.954,Red Light On; Test,1
+2021-09-14_11-41-48_Chamber16,r50h05-gal4>uas-cschrimson,Red Light On,483.284,Red Light On; Test,1
+2021-09-14_11-41-48_Chamber19,r50h05-gal4>uas-cschrimson,Red Light On,188.731,Red Light On; Test,1
+2021-09-14_11-41-48_Chamber2,r50h05-gal4>uas-cschrimson,Red Light On,352.157,Red Light On; Test,1
+2021-09-14_11-41-48_Chamber22,r50h05-gal4>uas-cschrimson,Red Light On,373.937,Red Light On; Test,1
+2021-09-14_11-41-48_Chamber25,r50h05-gal4>uas-cschrimson,Red Light On,1439.479,Red Light On; Test,1
+2021-09-14_11-41-48_Chamber28,r50h05-gal4>uas-cschrimson,Red Light On,767.496,Red Light On; Test,1
+2021-09-14_11-41-48_Chamber5,r50h05-gal4>uas-cschrimson,Red Light On,291.132,Red Light On; Test,1
+2021-09-14_11-41-48_Chamber8,r50h05-gal4>uas-cschrimson,Red Light On,68.429,Red Light On; Test,1
+2021-09-20_15-39-14_Chamber1,r50h05-gal4>uas-cschrimson,Red Light On,538.189,Red Light On; Test,1
+2021-09-20_15-39-14_Chamber10,r50h05-gal4>uas-cschrimson,Red Light On,557.87,Red Light On; Test,1
+2021-09-20_15-39-14_Chamber13,r50h05-gal4>uas-cschrimson,Red Light On,207.765,Red Light On; Test,1
+2021-09-20_15-39-14_Chamber18,r50h05-gal4>uas-cschrimson,Red Light On,371.788,Red Light On; Test,1
+2021-09-20_15-39-14_Chamber21,r50h05-gal4>uas-cschrimson,Red Light On,374.352,Red Light On; Test,1
+2021-09-20_15-39-14_Chamber24,r50h05-gal4>uas-cschrimson,Red Light On,8.939,Red Light On; Test,1
+2021-09-20_15-39-14_Chamber27,r50h05-gal4>uas-cschrimson,Red Light On,41.959,Red Light On; Test,1
+2021-09-20_15-39-14_Chamber30,r50h05-gal4>uas-cschrimson,Red Light On,368.934,Red Light On; Test,1
+2021-09-20_15-39-14_Chamber4,r50h05-gal4>uas-cschrimson,Red Light On,497.363,Red Light On; Test,1
+2021-09-20_15-39-14_Chamber7,r50h05-gal4>uas-cschrimson,Red Light On,415.906,Red Light On; Test,1
